@@ -1,0 +1,22 @@
+h1 {
+	color:red;
+	border-bottom: 1px solid black;
+
+}
+
+h2 {
+	border-bottom: 1px solid blue
+}
+
+h4 {
+	padding-left: 10px;
+}
+
+.content {
+	border:1px solid black;
+	height: 180px;
+	width:150px;
+	background-color: aqua	
+}
+
+/* comments in css*/

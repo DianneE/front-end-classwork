@@ -1,0 +1,30 @@
+body {
+	font: sans-serif;
+	line-height: 1.5em;
+}
+
+h1 {
+	color: red;
+}	
+
+blockquote {
+	background-color: gray;
+}
+
+#line-one {
+	color: green;
+}
+
+.dates {
+	font-weight: bold;
+	font-style: italic;
+}
+
+#pink-line {
+	color: pink;
+
+
+
+
+
+
